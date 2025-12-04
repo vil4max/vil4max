@@ -90,10 +90,13 @@ how AI and new development tools can improve engineering workflows.
 
 ---
 
-### Other / Earlier Projects
+### Open Source / Demo Projects
+
+- **Electus+ — Modern iOS Development Demo:** 🎨 Demonstration project showcasing **Swift 6.1**, **SwiftUI**, and **Clean Architecture** patterns. Features: animated Welcome Screen, Market List with Binance API, Dark/Light Mode, modular SPM architecture. Built in public for learning and collaboration. [GitHub](https://github.com/vil4max/electus) · [Live Demo](https://vil4max.github.io/electus/) (2025 – Present)
+
+### Earlier Projects
 
 - **PlayHera — Gaming Tournaments Platform:** teams, chats, tournament progress, notifications (2019 – 2020)  
-- **Electus — Crypto Wallet:** simplified crypto wallet MVP with **EthereumKit** integration, intuitive onboarding, secure **Keychain** storage, **biometric authentication**, and transaction handling (2018 – 2019)  
 - **Alert Meditation:** wellness app with audio exercises, categories, reminders, and progress tracking using **AVFoundation** and **Alamofire** (2015 – 2017)  
 - **The Clovis Culture:** online store (catalog, filters, adaptive UI)  
 - **Eastern Union — Broker Tool:** broker tool (real-time prices, caching, financial flows)  
@@ -105,9 +108,13 @@ how AI and new development tools can improve engineering workflows.
 
 ## Selected Apps & Links
 
-- 📱 Umico / Birmarket — Super App / Marketplace  
+- 🎨 Electus+ — Modern iOS Development Demo (Open Source)
 
-  https://apps.apple.com/ru/app/umico-%D1%81%D0%BA%D0%B8%D0%B4%D0%BA%D0%B8-%D0%B8-%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/id1458111389?l=uk  
+  https://github.com/vil4max/electus | https://vil4max.github.io/electus/
+
+- 📱 Umico / Birmarket — Super App / Marketplace
+
+  https://apps.apple.com/ru/app/umico-%D1%81%D0%BA%D0%B8%D0%B4%D0%BA%D0%B8-%D0%B8-%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/id1458111389?l=uk
 
 - ☕ Drinkit — Coffee Ordering App  
 
