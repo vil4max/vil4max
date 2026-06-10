@@ -10,9 +10,9 @@
 
 Native iOS — **UIKit/SwiftUI**, **SPM**, networking, Apple platform services.
 
-Strong in UIKit/SwiftUI delivery, networking and APIs, real-time features, and payments. Featured work: **Birmarket/Umico** marketplace super app — shared SDK integrated into 3 host apps.
+Strong in UIKit/SwiftUI delivery, networking and APIs, real-time features, and payments. Recent work: **watchOS AI voice assistant** (GlobalLogic, NDA) — WebSocket backend, agent-driven UI on Apple Watch. Earlier featured: **Birmarket/Umico** marketplace super app — shared SDK in 3 host apps.
 
-**Interests:** exploring applied AI and agent-assisted engineering workflows.
+**Interests:** applied AI, agent-assisted engineering, watchOS.
 
 ## Public demo projects
 
