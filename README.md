@@ -16,4 +16,5 @@ Strong in UIKit/SwiftUI delivery, networking and APIs, real-time features, and p
 
 ## Public demo projects
 
+- **pitstop-ios** — SwiftUI + SwiftData vehicle maintenance tracker (local-only demo). Repo: [vil4max/pitstop-ios](https://github.com/vil4max/pitstop-ios)
 - **KievAlert** *(in progress)* — SwiftUI demo app for air-raid alert status by region; long-term goal: CarPlay. Repo: [vil4max/kiev-alert](https://github.com/vil4max/kiev-alert)
