@@ -1,5 +1,6 @@
 ## Maintenance notes
 
+- **Local layout:** both repos live under `Profile/` as siblings — see `../README.md` in the parent folder.
 - Keep the site and PDF exports in sync. When updating `index.html` or `index-short.html` in `vil4max.github.io`, regenerate PDFs:
   - `npm run resume:pdf:all`
   - Optional: sanity check with `npm run resume:check`
