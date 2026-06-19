@@ -14,7 +14,11 @@ Strong in UIKit/SwiftUI delivery, networking and APIs, real-time features, and p
 
 **Interests:** applied AI, agent-assisted engineering, watchOS.
 
-## Public demo projects
+## Demo projects
 
-- **pitstop-ios** — SwiftUI + SwiftData vehicle maintenance tracker (local-only demo). Repo: [vil4max/pitstop-ios](https://github.com/vil4max/pitstop-ios)
-- **KievAlert** *(in progress)* — SwiftUI demo app for air-raid alert status by region; long-term goal: CarPlay. Repo: [vil4max/kiev-alert](https://github.com/vil4max/kiev-alert)
+Personal demo projects.
+
+- **RoomScanner** — LiDAR technical demo: ARKit mesh capture, RealityKit placement with depth occlusion, and live scan metrics on Pro hardware. Repo: [vil4max/room-scanner-ios](https://github.com/vil4max/room-scanner-ios)
+- **pitstop-ios** — single-vehicle maintenance tracker: service visits, insurance dates, upgrades, and local reminders; on-device, no backend. Repo: [vil4max/pitstop-ios](https://github.com/vil4max/pitstop-ios)
+- **Groundhog Day** — personal countdown with flip-clock UI; pick a future date and swipe years → seconds on split-flap tiles, optional local notifications. Repo: [vil4max/groundhog-day-ios](https://github.com/vil4max/groundhog-day-ios)
+- **KievAlert** *(in progress)* — air-raid alert status by region with a map of regional statuses; portfolio demo toward CarPlay. Repo: [vil4max/kiev-alert](https://github.com/vil4max/kiev-alert)
