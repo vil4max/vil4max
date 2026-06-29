@@ -2,7 +2,7 @@
 
 **Senior iOS Engineer · SDK & Platform · Swift · SwiftUI**
 
-Senior iOS — Birmarket shared SDK & Loyalty · 12+ years · Available Jul 2026 · Kyiv · [CV (PDF · full)](https://raw.githubusercontent.com/vil4max/vil4max/main/assets/iOS_Vilchevskiy_CV.pdf) · [CV (PDF · short)](https://raw.githubusercontent.com/vil4max/vil4max/main/assets/iOS_Vilchevskiy_CV_short.pdf) · [Portfolio](https://vil4max.github.io/)
+Senior iOS — Birmarket shared SDK & Loyalty · 12+ years · Available Jul 2026 · Kyiv · [CV (PDF)](https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf) · [CV (PDF · detailed)](https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Max_Vilchevskiy_Senior_iOS_Engineer_detailed.pdf) · [Portfolio](https://vil4max.github.io/)
 
 ## About
 
