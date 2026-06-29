@@ -8,12 +8,9 @@ Kyiv · Available Jul 2026 · [CV (PDF)](https://raw.githubusercontent.com/vil4m
 
 12+ years of iOS development, including 4+ years in Senior roles.
 
-At PASHA Holding — Birmarket marketplace & loyalty on the Loyalty squad. Strong in UIKit/SwiftUI, SPM, shared SDKs, Apple Pay, and WebSockets.
+Available Jul 2026 · remote or hybrid · Kyiv
 
-- Contributed to shared marketplace/loyalty iOS SDK across 3 production host apps
-- Technical lead on Premium Subscription — extraction into a dedicated SDK module; App Store release
-- High crash-free sessions during staged rollouts and Firebase Remote Config experiments
-- Unit test coverage for critical business modules (XCTest · Swift Testing)
+Last senior roles: GlobalLogic (2026) — watchOS voice AI R&D. Before that, ~4 years at PASHA Holding on the Birmarket Loyalty squad — technical lead on Premium Subscription; shared marketplace/loyalty iOS SDK across 3 host apps (Birmarket, Birbank, M10).
 
 **Languages:** English B1 · Ukrainian fluent · Russian native
 
