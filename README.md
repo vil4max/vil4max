@@ -1,6 +1,6 @@
 # Max Vilchevskiy · Senior iOS Engineer
 
-**Senior iOS Engineer · Swift · SwiftUI · UIKit · SPM**
+**Senior iOS Engineer · Swift · SwiftUI · UIKit**
 
 Kyiv · Available Jul 2026 · [CV (PDF)](https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf) · [Portfolio](https://vil4max.github.io/)
 
