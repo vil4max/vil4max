@@ -1,21 +1,23 @@
 # Max Vilchevskiy · Senior iOS Engineer
 
-**Senior iOS Engineer · SDK & Platform · Swift · SwiftUI · AI/mobile**
+**Senior iOS Engineer · SDK & Platform · Swift · SwiftUI**
 
-Senior iOS — shared SDKs, marketplace & loyalty platform, voice AI on watchOS. Kyiv · **open to work** · [CV (PDF · full)](https://raw.githubusercontent.com/vil4max/vil4max/main/assets/iOS_Vilchevskiy_CV.pdf) · [CV (PDF · short)](https://raw.githubusercontent.com/vil4max/vil4max/main/assets/iOS_Vilchevskiy_CV_short.pdf) · [Portfolio](https://vil4max.github.io/)
+Senior iOS — Birmarket shared SDK & Loyalty · 12+ years · Available Jul 2026 · Kyiv · [CV (PDF · full)](https://raw.githubusercontent.com/vil4max/vil4max/main/assets/iOS_Vilchevskiy_CV.pdf) · [CV (PDF · short)](https://raw.githubusercontent.com/vil4max/vil4max/main/assets/iOS_Vilchevskiy_CV_short.pdf) · [Portfolio](https://vil4max.github.io/)
 
 ## About
 
-Recently delivered an Apple Watch voice AI prototype with real-time backend communication, intent-driven navigation, and hands-free workflows (R&D, NDA).
+Senior iOS Engineer · 4+ years in Senior roles · 12+ years on Apple platforms.
 
-Senior iOS engineer with 10+ years building production mobile apps across marketplaces, shared SDK ecosystems, loyalty, subscriptions, and real-time products. Strong in UIKit/SwiftUI, SPM, shared SDKs, Apple Pay, and WebSockets.
+At PASHA Holding — Birmarket marketplace & loyalty on the Loyalty squad: contributed to shared marketplace/loyalty iOS SDK across 3 host apps (Birmarket, Birbank, M10); technical lead on Premium Subscription. Strong in UIKit/SwiftUI, SPM, shared SDKs, Apple Pay, and WebSockets.
 
-- Built and maintained a shared marketplace/loyalty SDK used in 3 production apps by 7–10 iOS engineers across squads
-- Owned Premium Subscription end-to-end — requirements, implementation, localization, and App Store release (cashback/bonus logic)
-- Maintained 99–100% crash-free sessions during staged rollouts and Firebase Remote Config experiments
-- Unit test coverage for critical business modules (XCTest)
+- Contributed to shared marketplace/loyalty iOS SDK across 3 production host apps
+- Technical lead on Premium Subscription — extraction into a dedicated SDK module; App Store release
+- High crash-free sessions during staged rollouts and Firebase Remote Config experiments
+- Unit test coverage for critical business modules (XCTest · Swift Testing)
 
 **Languages:** English B1 · Ukrainian fluent · Russian native
+
+**Contact:** vil4max@gmail.com · +380509864522 · [linkedin.com/in/vil4max](https://www.linkedin.com/in/vil4max/)
 
 ## Demo projects
 
