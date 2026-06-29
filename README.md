@@ -6,11 +6,7 @@ Kyiv · Available Jul 2026 · [CV (PDF)](https://raw.githubusercontent.com/vil4m
 
 ## About
 
-12+ years of iOS development, including 4+ years in Senior roles.
-
-Available Jul 2026 · remote or hybrid · Kyiv
-
-Last senior roles: GlobalLogic (2026) — watchOS voice AI R&D. Before that, ~4 years at PASHA Holding on the Birmarket Loyalty squad — technical lead on Premium Subscription; shared marketplace/loyalty iOS SDK across 3 host apps (Birmarket, Birbank, M10).
+Senior iOS Engineer with 12+ years of experience building consumer and fintech products. Recently worked on watchOS voice AI R&D at GlobalLogic. Previously developed marketplace and loyalty features at PASHA Holding, including a shared iOS SDK used across multiple apps, and earlier contributed to the Drinkit mobile app. Experienced in taking features from architecture to production, collaborating with cross-functional teams, and delivering scalable iOS solutions.
 
 **Languages:** English B1 · Ukrainian fluent · Russian native
 
