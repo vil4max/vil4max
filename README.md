@@ -6,7 +6,7 @@ Kyiv · Available Jul 2026 · [CV (PDF)](https://raw.githubusercontent.com/vil4m
 
 ## About
 
-4+ years in Senior roles · 12+ years on Apple platforms.
+12+ years of iOS development, including 4+ years in Senior roles.
 
 At PASHA Holding — Birmarket marketplace & loyalty on the Loyalty squad. Strong in UIKit/SwiftUI, SPM, shared SDKs, Apple Pay, and WebSockets.
 
