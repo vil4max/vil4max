@@ -6,9 +6,9 @@ Kyiv · Available Jul 2026 · [CV (PDF)](https://raw.githubusercontent.com/vil4m
 
 ## About
 
-Senior iOS Engineer · 4+ years in Senior roles · 12+ years on Apple platforms.
+4+ years in Senior roles · 12+ years on Apple platforms.
 
-At PASHA Holding — Birmarket marketplace & loyalty on the Loyalty squad: contributed to shared marketplace/loyalty iOS SDK across 3 host apps (Birmarket, Birbank, M10); technical lead on Premium Subscription. Strong in UIKit/SwiftUI, SPM, shared SDKs, Apple Pay, and WebSockets.
+At PASHA Holding — Birmarket marketplace & loyalty on the Loyalty squad. Strong in UIKit/SwiftUI, SPM, shared SDKs, Apple Pay, and WebSockets.
 
 - Contributed to shared marketplace/loyalty iOS SDK across 3 production host apps
 - Technical lead on Premium Subscription — extraction into a dedicated SDK module; App Store release
