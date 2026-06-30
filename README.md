@@ -1,14 +1,14 @@
 # Max Vilchevskiy · Senior iOS Engineer
 
-**Senior iOS Engineer · Swift · SwiftUI · UIKit**
+**Senior iOS Engineer**
 
 Kyiv · Available Jul 2026 · [CV (PDF)](https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf) · [Portfolio](https://vil4max.github.io/)
 
 ## About
 
-Senior iOS Engineer with 12+ years of experience building consumer and fintech products. Recently worked on watchOS voice AI R&D at GlobalLogic. Previously developed marketplace and loyalty features at PASHA Holding, including a shared iOS SDK used across multiple apps, and earlier contributed to the Drinkit mobile app. Experienced in taking features from architecture to production, collaborating with cross-functional teams, and delivering scalable iOS solutions.
+Senior iOS Engineer with 12+ years building consumer and fintech products. Built a voice AI assistant on Apple Watch. Shipped marketplace commerce and led Premium Subscription through App Store release, including SDK module extraction. Earlier owned ordering and checkout in a coffee ordering app.
 
-**Languages:** English B1 · Ukrainian fluent · Russian native
+**Languages:** English — Intermediate
 
 **Contact:** vil4max@gmail.com · +380509864522 · [linkedin.com/in/vil4max](https://www.linkedin.com/in/vil4max/)
 
