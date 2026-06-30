@@ -12,9 +12,9 @@ Senior iOS Engineer with 12+ years of experience building consumer and fintech p
 
 **Contact:** vil4max@gmail.com · +380509864522 · [linkedin.com/in/vil4max](https://www.linkedin.com/in/vil4max/)
 
-## Demo projects
+## Personal demo projects
 
-Personal experiments — repos on GitHub.
+Side experiments — repos on GitHub.
 
 - **RoomScanner** — LiDAR technical demo: ARKit mesh capture, RealityKit placement with depth occlusion, and live scan metrics on Pro hardware. Repo: [vil4max/room-scanner-ios](https://github.com/vil4max/room-scanner-ios)
 - **pitstop-ios** — personal car diary — service visits, mileage, insurance, upgrades, and local reminders; on-device, no backend. Repo: [vil4max/pitstop-ios](https://github.com/vil4max/pitstop-ios)
