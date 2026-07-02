@@ -1,4 +1,4 @@
-# Max Vilchevskiy · iOS Software Engineer
+# Max Vilchevskiy
 
 **iOS Software Engineer**
 
