@@ -1,12 +1,12 @@
-# Max Vilchevskiy · Senior iOS Engineer
+# Max Vilchevskiy · iOS Software Engineer
 
-**Senior iOS Engineer**
+**iOS Software Engineer**
 
-Kyiv · Available Jul 2026 · [CV (PDF)](https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf) · [Portfolio](https://vil4max.github.io/)
+Kyiv · Available Jul 2026 · [CV (PDF)](https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Vilchevskiy_iOS_Engineer.pdf) · [Portfolio](https://vil4max.github.io/)
 
 ## About
 
-iOS Software Engineer with 12+ years building consumer and business mobile apps for marketplaces, mobility, health, and internal operations tools.
+iOS Software Engineer with broad production experience building iOS apps across different stages — from startups to large-scale applications. I focus on shipping, maintainable architecture, and a smooth user experience across UIKit and SwiftUI.
 
 **Contact:** vil4max@gmail.com · [linkedin.com/in/vil4max](https://www.linkedin.com/in/vil4max/)
 
