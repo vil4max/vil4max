@@ -6,7 +6,7 @@ Kyiv · Available Jul 2026 · [CV (PDF)](https://raw.githubusercontent.com/vil4m
 
 ## About
 
-Senior iOS Engineer with 12+ years building consumer and fintech products. Built a watchOS voice AI client with speech input and client-side handling of structured responses from a server-side AI agent, including form autofill. Shipped marketplace commerce and led Premium Subscription through App Store release, including SDK module extraction. Earlier, I was in charge of ordering and checkout in a coffee ordering app.
+iOS Software Engineer with 12+ years building consumer and business mobile apps for marketplaces, mobility, health, and internal operations tools.
 
 **Contact:** vil4max@gmail.com · [linkedin.com/in/vil4max](https://www.linkedin.com/in/vil4max/)
 
