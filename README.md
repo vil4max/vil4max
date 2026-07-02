@@ -8,7 +8,7 @@ Kyiv · Available Jul 2026 · [CV (PDF)](https://raw.githubusercontent.com/vil4m
 
 iOS Software Engineer with broad production experience building iOS apps across different stages — from startups to large-scale applications. I focus on shipping, maintainable architecture, and a smooth user experience across UIKit and SwiftUI.
 
-**Contact:** vil4max@gmail.com · [linkedin.com/in/vil4max](https://www.linkedin.com/in/vil4max/)
+**Contact:** [vil4max@gmail.com](mailto:vil4max@gmail.com) · [LinkedIn Profile](https://www.linkedin.com/in/vil4max/) · [Telegram @vil4max](https://t.me/vil4max)
 
 ## Personal demo projects
 
