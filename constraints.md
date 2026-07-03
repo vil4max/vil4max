@@ -1,9 +1,8 @@
-## Maintenance notes
+## PDF assets
 
-- **Local layout:** both repos live under `Profile/` as siblings — see `../README.md` in the parent folder.
-- Keep the site and PDF exports in sync. When updating `index.html` or `index-short.html` in `vil4max.github.io`, regenerate PDFs:
-  - `npm run resume:pdf:all`
-  - Optional: sanity check with `npm run resume:check`
+PDFs live in `assets/`. Regenerate via `vil4max.github.io`:
 
-- This repo hosts public assets (PDFs/images) referenced from the site. Keep `assets/` up to date before publishing changes.
+- [constraints.md](../vil4max.github.io/constraints.md)
+- `npm run resume:build` from `vil4max.github.io`
 
+Outputs: `Vilchevskiy_iOS_Engineer.pdf`, `Vilchevskiy_iOS_Engineer_detailed.pdf`
