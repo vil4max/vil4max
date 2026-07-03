@@ -4,12 +4,10 @@
   <p><strong>iOS Software Engineer</strong> · Kyiv, Ukraine · English — Intermediate</p>
   <p>
     <a href="https://vil4max.github.io/">About me</a> ·
-    <a href="https://vil4max.github.io/cv.html">Resume</a> ·
-    <a href="https://vil4max.github.io/projects.html">Projects</a> ·
-    <a href="https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Vilchevskiy_iOS_Engineer.pdf">Resume (PDF)</a> ·
     <a href="https://www.linkedin.com/in/vil4max/">LinkedIn</a> ·
     <a href="mailto:vil4max@gmail.com">Email</a> ·
-    <a href="https://t.me/vil4max">Telegram</a>
+    <a href="https://t.me/vil4max">Telegram</a> ·
+    <a href="https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Vilchevskiy_iOS_Engineer.pdf">Resume (PDF)</a> 
   </p>
 </div>
 
