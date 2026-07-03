@@ -3,7 +3,9 @@
   <h1>Max Vilchevskiy</h1>
   <p><strong>iOS Software Engineer</strong> · Kyiv, Ukraine · English — Intermediate</p>
   <p>
-    <a href="https://vil4max.github.io/">Portfolio</a> ·
+    <a href="https://vil4max.github.io/">About me</a> ·
+    <a href="https://vil4max.github.io/cv.html">Resume</a> ·
+    <a href="https://vil4max.github.io/projects.html">Projects</a> ·
     <a href="https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Vilchevskiy_iOS_Engineer.pdf">Resume (PDF)</a> ·
     <a href="https://www.linkedin.com/in/vil4max/">LinkedIn</a> ·
     <a href="mailto:vil4max@gmail.com">Email</a> ·
@@ -26,5 +28,3 @@ I use AI agents daily for implementation and code review, but I still own everyt
 Previously I worked on parking and broker apps, esports platforms, a blockchain MVP, and SceneKit-based medical tools — mostly in Objective-C at first, then Swift for the last decade.
 
 Right now I'm leaning into on-device and hybrid AI for iOS and watchOS: products where AI is part of the user flow, not just a slide at the end. A few side experiments live on the site under [Projects](https://vil4max.github.io/projects.html).
-
-[Full resume](https://vil4max.github.io/cv.html) · [Case studies](https://vil4max.github.io/projects.html)
