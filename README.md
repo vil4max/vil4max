@@ -13,4 +13,12 @@
 
 ## About
 
-iOS engineer with 12+ years shipping consumer, fintech, and marketplace apps — from solo App Store releases to teams at Dodo, PASHA, and GlobalLogic. I like owning features end-to-end: architecture, implementation, analytics, and App Store delivery, including extracting shared modules into SDKs when products need to scale.
+👋 I’m an iOS engineer with 12+ years of experience. I still enjoy building things, trying new ideas, and exploring new technology.
+
+🧪 I’ve worked everywhere from small startups to large product teams. Over the years, I’ve learned to value simple solutions, clear architecture, and code that is easy for other developers to understand and maintain.
+
+In my free time, I build small apps for my own needs, play with new frameworks and libraries, and keep many of my experiments here on GitHub.
+
+🤖 Right now, I’m especially interested in AI developer tools and coding agents. I use them in my daily workflow and explore how they can make development faster, simpler, and more fun.
+
+Always curious, always experimenting, and open to new opportunities.
