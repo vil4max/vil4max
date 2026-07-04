@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/profile.png" width="120" alt="Max Vilchevskiy">
   <h1>Max Vilchevskiy</h1>
-  <p><strong>iOS Software Engineer</strong> · Kyiv, Ukraine · English — Intermediate</p>
+  <p><strong>iOS Software Engineer</strong> · Kyiv, Ukraine</p>
   <p>
     <a href="https://vil4max.github.io/">About me</a> ·
     <a href="https://www.linkedin.com/in/vil4max/">LinkedIn</a> ·
