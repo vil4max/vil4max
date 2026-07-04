@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/profile.png" width="120" alt="Max Vilchevskiy">
   <h1>Max Vilchevskiy</h1>
   <p><strong>iOS Software Engineer</strong> · Kyiv, Ukraine</p>
   <p>
