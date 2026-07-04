@@ -10,7 +10,7 @@ Always curious, always experimenting, and open to new opportunities.
 
 <div align="center">
   <p>
-    <a href="https://vil4max.github.io/">About me</a> ·
+    <a href="https://vil4max.github.io/">Portfolio</a> ·
     <a href="https://www.linkedin.com/in/vil4max/">LinkedIn</a> ·
     <a href="mailto:vil4max@gmail.com">Email</a> ·
     <a href="https://t.me/vil4max">Telegram</a> ·
