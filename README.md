@@ -14,9 +14,3 @@
 ## About
 
 iOS engineer with 12+ years shipping consumer, fintech, and marketplace apps — from solo App Store releases to teams at Dodo, PASHA, and GlobalLogic. I like owning features end-to-end: architecture, implementation, analytics, and App Store delivery, including extracting shared modules into SDKs when products need to scale.
-
-Recently I've been building:
-
-- Voice AI experiences on Apple Watch
-- Marketplace commerce flows, and a Premium Subscription SDK used across host apps
-- Analytics layers that keep product code decoupled from any single vendor SDK
