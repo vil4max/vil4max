@@ -10,8 +10,6 @@
   </p>
 </div>
 
-## About
-
 👋 I’m an iOS engineer with 12+ years of experience. I still enjoy building things, trying new ideas, and exploring new technology.
 
 🧪 I’ve worked everywhere from small startups to large product teams. Over the years, I’ve learned to value simple solutions, clear architecture, and code that is easy for other developers to understand and maintain.
