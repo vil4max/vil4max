@@ -14,6 +14,6 @@ Always curious, always experimenting, and open to new opportunities.
     <a href="https://www.linkedin.com/in/vil4max/">LinkedIn</a> ·
     <a href="mailto:vil4max@gmail.com">Email</a> ·
     <a href="https://t.me/vil4max">Telegram</a> ·
-    <a href="https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Vilchevskiy_iOS_Engineer.pdf">Resume (PDF)</a> 
+    <a href="https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf">Resume (PDF)</a> 
   </p>
 </div>

@@ -1,11 +1,17 @@
 ## PDF assets
 
-One resume PDF only. Regenerate via `vil4max.github.io`:
+Two public resume PDFs. Regenerate via `vil4max.github.io`:
 
 - [constraints.md](../vil4max.github.io/constraints.md)
 - `npm run resume:build` from `vil4max.github.io`
+- Full filename policy: `career/resume-publishing.md` (private repo)
 
-Output: `Vilchevskiy_iOS_Engineer.pdf` (2–3 pages, from `index.html`) → `assets/` here and iCloud `pdf-resume/` on build. No detailed or alternate PDFs.
+Outputs:
+
+- `Max_Vilchevskiy_Senior_iOS_Engineer.pdf` — primary 1-page CV (from `resume-one-page.html`)
+- `Max_Vilchevskiy_Senior_iOS_Engineer_Detailed.pdf` — detailed 2–3 page CV (from `index.html`)
+
+Both land in `assets/` here and iCloud `pdf-resume/` on build.
 
 ## README
 
