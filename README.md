@@ -1,4 +1,4 @@
-👋 I’m a Senior iOS engineer with 12+ years of experience. I still enjoy building things, trying new ideas, and exploring new technology.
+👋 I’m a Senior iOS engineer with 10+ years of experience. I still enjoy building things, trying new ideas, and exploring new technology.
 
 🧪 I have worked in small startups and in large product teams. Over the years, I have learned to value simple solutions, clear architecture, and code that is easy for other developers to understand and maintain.
 
