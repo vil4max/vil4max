@@ -4,7 +4,7 @@ Two public resume PDFs. Regenerate via `vil4max.github.io`:
 
 - [constraints.md](../vil4max.github.io/constraints.md)
 - `npm run resume:build` from `vil4max.github.io`
-- Full filename policy: `career/resume-publishing.md` (private repo)
+- Full filename policy: `career/resume/README.md` (private repo)
 
 Outputs:
 
