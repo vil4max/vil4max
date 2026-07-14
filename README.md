@@ -1,4 +1,4 @@
-👋 I’m a Senior iOS engineer with 10+ years shipping mobile products, from early startup and indie work to large marketplace delivery in a product team.
+👋 I’m a Senior iOS engineer with 10+ years of shipping mobile products, from early startup and indie work to large-scale marketplace delivery on a product team.
 
 I can build an app from scratch and own critical surfaces in a mature codebase, including turning Premium Subscription into a multi-host SDK used across host apps. Recent path: marketplace product work, fintech-related client delivery, and Voice AI R&D experiments on watchOS - looking for the next Senior iOS role where fintech and AI-adjacent product work keep growing.
 
