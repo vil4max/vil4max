@@ -1,18 +1,17 @@
 ## PDF assets
 
-Two public resume PDFs. Regenerate via `vil4max.github.io`:
+One public Resume PDF. Regenerate via career workspace:
 
-- [constraints.md](../vil4max.github.io/constraints.md)
-- `npm run resume:build` from `vil4max.github.io`
-- Full filename policy: `career/resume/README.md` (private repo)
+- `cd career && npm run resume:one-page`
+- or `npm run resume:build` from `vil4max.github.io` (public PDF + private autofill)
+- Filename policy: `career/resume/README.md`
 
-Outputs:
+Output:
 
-- `Max_Vilchevskiy_Senior_iOS_Engineer.pdf` — primary 1-page CV (from `resume-one-page.html`)
-- `Max_Vilchevskiy_Senior_iOS_Engineer_Detailed.pdf` — detailed 2–3 page CV (from `index.html`)
+- `Max_Vilchevskiy_Senior_iOS_Engineer.pdf` — public 1–2 page Resume (HTML/CSS → Chromium)
 
-Both land in `assets/` here and iCloud `pdf-resume/` on build.
+Published under `assets/` here and copied to iCloud `pdf-resume/` on build. Private Profile Autofill PDF stays under `career/resume/build/` only.
 
 ## README
 
-`README.md` is the GitHub profile “about” page (human voice). The public resume lives at `vil4max.github.io` (`index.html` — online resume + PDF download). Keep README independent; no need to sync with portfolio copy.
+`README.md` is the GitHub profile "about" page (human voice). The public resume lives at `vil4max.github.io` (`index.html` — online resume + PDF download). Keep README independent; no need to sync with portfolio copy.
