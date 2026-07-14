@@ -1,6 +1,6 @@
 👋 I’m a Senior iOS engineer with 10+ years of shipping mobile products, from early startup and indie work to large-scale marketplace delivery on a product team.
 
-I can build an app from scratch and own critical surfaces in a mature codebase, including turning Premium Subscription into a multi-host SDK used across host apps. Recent work spans marketplace product delivery, fintech-related client work, and Voice AI R&D on watchOS.
+I can build an app from scratch and own critical surfaces in a mature codebase, including turning Premium Subscription into a multi-host SDK used across host apps. My recent path includes marketplace product work, fintech-related client delivery, and Voice AI R&D experiments on watchOS.
 
 🧪 I still enjoy building things, trying new ideas, and exploring new technology. Over the years I have learned to value simple solutions, clear architecture, and code that is easy for other developers to understand and maintain.
 
