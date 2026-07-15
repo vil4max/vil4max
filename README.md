@@ -1,6 +1,6 @@
 👋 Senior Software Engineer · iOS. Over 10 years shipping commercial products - startups, consumer apps, and large marketplace platforms.
 
-Day-job focus: long-lived product engineering. Most recent flagship work was Premium Subscription as a multi-host iOS SDK with shared analytics. I'm currently looking for the next senior IC role on a modern product codebase.
+Day-job focus: long-lived product engineering. Most recent flagship work was Premium Subscription as a multi-host iOS SDK with shared analytics. I'm currently looking for a Senior iOS / mobile product role.
 
 🧪 I care about simple solutions, clear architecture, and software other engineers can maintain. AI coding agents are part of my everyday engineering workflow.
 
