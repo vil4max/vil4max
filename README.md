@@ -1,14 +1,12 @@
-👋 I’m a Senior iOS engineer with 10+ years of shipping mobile products, from early startup and indie work to large-scale marketplace delivery on a product team.
+👋 I’m a Senior Software Engineer with over 10 years of commercial iOS experience, building products for startups, indie apps, and large-scale marketplace platforms. I'm expanding beyond iOS, using this foundation to grow as a software engineer with AI as an integral part of my engineering practice.
 
-I can build an app from scratch and own critical surfaces in a mature codebase, including turning Premium Subscription into a multi-host SDK used across host apps. My path includes marketplace and loyalty products, coffee ordering and consumer e-commerce, fintech-related client delivery, and Voice AI R&D experiments on watchOS.
+I take ownership of products from initial development to long-lived production systems, including transforming Premium Subscription into a multi-host SDK adopted across host apps. My experience spans marketplace and loyalty solutions, coffee ordering and consumer e-commerce, fintech client delivery, and Voice AI R&D on watchOS.
 
-🧪 I still enjoy building things, trying new ideas, and exploring new technology. Over the years I have learned to value simple solutions, clear architecture, and code that is easy for other developers to understand and maintain.
+🧪 I care about simple solutions, clear architecture, and software that other engineers can easily understand and maintain. In my spare time, I build small apps, explore new technologies, and share many of my experiments here on GitHub.
 
-In my free time, I build small apps for my own needs, play with new frameworks and libraries, and keep many of my experiments here on GitHub.
+🤖 AI tools and coding agents have become part of my everyday engineering workflow. I use them to support development and learning.
 
-🤖 I use AI developer tools and coding agents in my daily workflow. I do not claim an AI Engineer title.
-
-Always curious, always experimenting, and open to new opportunities.
+I'm interested in understanding how software systems work, from mobile platforms to modern AI, and applying that understanding to build reliable, maintainable software.
 
 <div align="center">
   <p>
