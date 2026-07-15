@@ -4,7 +4,7 @@ Day-job focus: long-lived product engineering. Most recent flagship work was Pre
 
 🧪 I care about simple solutions, clear architecture, and software other engineers can maintain. AI coding agents are part of my everyday engineering workflow.
 
-Outside work I keep a small hobby lab. [PitStop](https://github.com/vil4max/pitstop-ios) is a driver's journal / car-memory sketch I treat as pet project and weekend craft - with a soft idea to build it over time with my teenage son. [Regional Check](https://github.com/vil4max/regional-check) is another early CarPlay experiment. These are personal learning spaces, not hire case studies. Hire materials live on the portfolio site.
+Outside work I keep a small hobby lab. [PitStop](https://github.com/vil4max/pitstop-ios) is a driver's journal / car-memory sketch I treat as pet project and weekend craft. [Regional Check](https://github.com/vil4max/regional-check) is another early CarPlay experiment. These are personal learning spaces, not hire case studies. Hire materials live on the portfolio site.
 
 <div align="center">
   <p>
