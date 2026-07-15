@@ -1,14 +1,10 @@
-👋 I’m a Senior Software Engineer with over 10 years of commercial iOS experience, building products for startups, indie apps, and large-scale marketplace platforms. I'm expanding beyond iOS, using this foundation to grow as a software engineer with AI as an integral part of my engineering practice.
+👋 Senior Software Engineer · iOS. Over 10 years shipping commercial products - startups, consumer apps, and large marketplace platforms.
 
-I take ownership of products from initial development to long-lived production systems, including transforming Premium Subscription into a multi-host SDK adopted across host apps. My experience spans marketplace and loyalty solutions, coffee ordering and consumer e-commerce, fintech client delivery, and Voice AI R&D on watchOS.
+Day-job focus: long-lived product engineering. Most recent flagship work was Premium Subscription as a multi-host iOS SDK with shared analytics. I'm currently looking for the next senior IC role on a modern product codebase.
 
-🧪 I care about simple solutions, clear architecture, and software that other engineers can easily understand and maintain. In my spare time, I build small apps, explore new technologies, and share many of my experiments here on GitHub.
+🧪 I care about simple solutions, clear architecture, and software other engineers can maintain. AI coding agents are part of my everyday engineering workflow.
 
-🔧 Pet projects: [Regional Check](https://github.com/vil4max/regional-check) (CarPlay) · [PitStop](https://github.com/vil4max/pitstop-ios) (driver's journal)
-
-🤖 AI tools and coding agents have become part of my everyday engineering workflow. I use them to support development and learning.
-
-I'm interested in understanding how software systems work, from mobile platforms to modern AI, and applying that understanding to build reliable, maintainable software.
+Personal repos here are small experiments and learning scratchpads (for example CarPlay and a driver's journal sketch) - early ideas, not hire case studies. Hire materials live on the portfolio site.
 
 <div align="center">
   <p>
