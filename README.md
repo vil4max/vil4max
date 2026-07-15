@@ -4,7 +4,7 @@ I take ownership of products from initial development to long-lived production s
 
 🧪 I care about simple solutions, clear architecture, and software that other engineers can easily understand and maintain. In my spare time, I build small apps, explore new technologies, and share many of my experiments here on GitHub.
 
-🔧 Open demos: [Regional Check](https://github.com/vil4max/regional-check) (CarPlay) · [RoomScanner](https://github.com/vil4max/room-scanner-ios) (ARKit/LiDAR) · [VisionKit Lab](https://github.com/vil4max/visionkit-lab-ios)
+🔧 Pet projects: [Regional Check](https://github.com/vil4max/regional-check) (CarPlay) · [PitStop](https://github.com/vil4max/pitstop-ios) (driver's journal)
 
 🤖 AI tools and coding agents have become part of my everyday engineering workflow. I use them to support development and learning.
 
