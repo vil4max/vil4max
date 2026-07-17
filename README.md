@@ -1,6 +1,6 @@
 👋 Senior iOS Engineer · Swift · SwiftUI · 10+ yrs · SDK & Platform Architecture · AI-Integrated Engineering Workflow. Over 10 years shipping commercial products - startups, consumer apps, and large marketplace platforms.
 
-Day-job focus: long-lived product engineering. Most recent flagship work was Premium Subscription as a multi-host iOS SDK with shared analytics. I'm currently looking for a Senior iOS / mobile product role, especially fintech and AI-touched product work; gambling, dating, and similar directions are outside that focus.
+Day-job focus: long-lived product engineering. Most recent flagship work was Premium Subscription as a multi-host iOS SDK with shared analytics. I'm currently looking for a Senior iOS / mobile product role with AI tools in everyday delivery, especially fintech and AI-touched product work; gambling, dating, and similar directions are outside that focus. I'm also expanding competencies beyond a pure iOS-only framing toward broader software engineering.
 
 Swift · SwiftUI · UIKit · Swift Concurrency · SPM · Multi-host SDK · Modularization · WatchConnectivity · Realtime Audio Streaming · AI-Assisted Development · Analytics Infrastructure · Performance Profiling (Instruments)
 
