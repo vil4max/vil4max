@@ -11,8 +11,6 @@ Outside work I keep a small hobby lab. [PitStop](https://github.com/vil4max/pits
 <div align="center">
   <p>
     <a href="https://vil4max.github.io/">Portfolio</a> ·
-    <a href="https://vil4max.github.io/projects.html#project-birmarket">Birmarket multi-host SDK</a> ·
-    <a href="https://vil4max.github.io/projects.html#project-watch-ai-assistant">Apple Watch Voice AI</a> ·
     <a href="https://www.linkedin.com/in/vil4max/">LinkedIn</a> ·
     <a href="mailto:vil4max@gmail.com">Email</a> ·
     <a href="https://t.me/vil4max">Telegram</a> ·
