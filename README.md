@@ -6,7 +6,7 @@ Swift · SwiftUI · UIKit · Swift Concurrency · SPM · Multi-host SDK · Modul
 
 🧪 I care about simple solutions, clear architecture, and software other engineers can maintain. AI coding agents are part of my everyday engineering workflow.
 
-Outside work I keep a small hobby lab. [PitStop](https://github.com/vil4max/pitstop-ios) is a driver's journal / car-memory sketch I treat as pet project and weekend craft. [Regional Check](https://github.com/vil4max/regional-check) is another early CarPlay experiment. These are personal learning spaces, not hire case studies. Hire materials live on the portfolio site.
+Outside work I keep a small hobby lab. [PitStop](https://github.com/vil4max/pitstop-ios) is a driver's journal / car-memory sketch I treat as pet project and weekend craft. [Regional Check](https://github.com/vil4max/regional-check) is a CarPlay utility now on the [App Store](https://apps.apple.com/us/app/regional-check/id6793023910). These are personal learning spaces, not hire case studies. Hire materials live on the portfolio site.
 
 <div align="center">
   <p>
