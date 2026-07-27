@@ -1,12 +1,10 @@
-👋 Senior iOS Engineer · Swift · SwiftUI · 10+ yrs · SDK & Platform Architecture · AI-Integrated Engineering Workflow. 10+ years building and evolving consumer mobile products - from greenfield apps to large marketplace and loyalty platforms.
+# 👋 Max Vilchevskiy
 
-Day-job focus: long-lived production codebases - modularization, shared SDKs, analytics infrastructure, and performance diagnostics. Most recent flagship work was Premium Subscription as a multi-host iOS SDK with shared analytics, plus watchOS voice-first R&D with real-time audio and structured AI-driven UI flows. Looking for a Senior iOS / mobile product role with AI tools in everyday delivery, especially fintech and AI-touched product work; gambling, dating, and similar directions are outside that focus.
+**Senior iOS Engineer** · Swift · SwiftUI · 10+ yrs · SDK & Platform Architecture · AI-Integrated Engineering Workflow
 
-Swift · SwiftUI · UIKit · Swift Concurrency · SPM · Multi-host SDK · Modularization · WatchConnectivity · Realtime Audio Streaming · AI-Assisted Development · Analytics Infrastructure · Performance Profiling (Instruments)
+Building consumer mobile products - from greenfield apps to large marketplace and loyalty platforms.
 
-🧪 I care about simple solutions, clear architecture, and software other engineers can maintain. AI coding agents are part of my everyday engineering workflow.
-
-Outside work I keep a small hobby lab. [PitStop](https://github.com/vil4max/pitstop-ios) is a driver's journal / car-memory sketch I treat as pet project and weekend craft. [Regional Check](https://github.com/vil4max/regional-check) is a CarPlay utility now on the [App Store](https://apps.apple.com/us/app/regional-check/id6793023910). These are personal learning spaces, not hire case studies. Hire materials live on the portfolio site.
+Kyiv, Ukraine
 
 <div align="center">
   <p>
@@ -17,3 +15,85 @@ Outside work I keep a small hobby lab. [PitStop](https://github.com/vil4max/pits
     <a href="https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf">Resume (PDF)</a>
   </p>
 </div>
+
+---
+
+## Looking for
+
+Senior iOS / mobile product role with AI tools in everyday delivery.
+
+**Interested in**
+- Fintech and AI-touched products
+- Consumer mobile products
+- Long-term product development
+- Platform and SDK engineering
+
+**Not interested in**
+- Gambling
+- Dating
+
+---
+
+## About
+
+Building and evolving production iOS applications - from greenfield apps to marketplace and loyalty platforms.
+
+Work focuses on long-lived codebases: modular architecture, shared SDKs, analytics infrastructure, engineering quality, and performance diagnostics.
+
+Prefer software that stays understandable and maintainable as the product grows.
+
+---
+
+## Recent Experience
+
+### Premium Subscription Platform
+
+Multi-host iOS SDK shared across several applications.
+
+- modular SDK architecture
+- shared analytics infrastructure
+- reusable host integration
+- production maintenance
+
+### watchOS Voice R&D
+
+Voice-first research prototype on Apple Watch.
+
+- realtime audio streaming
+- AI-assisted interaction
+- structured conversational UI flows
+- WatchConnectivity
+
+---
+
+## Technical Focus
+
+**Languages & UI:** Swift · SwiftUI · UIKit
+
+**Architecture:** Swift Concurrency · SPM · Modularization · Multi-host SDK
+
+**Platform & Realtime:** WatchConnectivity · Realtime Audio Streaming
+
+**Quality & AI:** AI-Assisted Development · Analytics Infrastructure · Performance Profiling (Instruments)
+
+---
+
+## Engineering Principles
+
+- simple solutions over clever ones
+- explicit architecture
+- maintainable systems
+- pragmatic engineering decisions
+
+AI coding agents are part of everyday engineering workflow - collaborators for implementation, testing, debugging, documentation, and research.
+
+---
+
+## Hobby Lab
+
+Outside work: a small personal engineering lab.
+
+- **[PitStop](https://github.com/vil4max/pitstop-ios)** - driver's journal / car-memory sketch
+- **[Regional Check](https://github.com/vil4max/regional-check)** - CarPlay utility on the [App Store](https://apps.apple.com/us/app/regional-check/id6793023910)
+
+Personal learning spaces, not hire case studies. Professional materials live on the portfolio site.
