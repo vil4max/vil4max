@@ -46,7 +46,7 @@ Prefer software that stays understandable and maintainable as the product grows.
 
 ## Recent Experience
 
-### Premium Subscription Platform
+### [Premium Subscription Platform](https://vil4max.github.io/projects.html#project-birmarket)
 
 Multi-host iOS SDK shared across several applications.
 
@@ -55,7 +55,7 @@ Multi-host iOS SDK shared across several applications.
 - reusable host integration
 - production maintenance
 
-### watchOS Voice R&D
+### [watchOS Voice R&D](https://vil4max.github.io/projects.html#project-watch-ai-assistant)
 
 Voice-first research prototype on Apple Watch.
 
