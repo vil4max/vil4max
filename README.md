@@ -1,8 +1,10 @@
 # 👋 Max Vilchevskiy
 
-**Senior iOS Engineer** · Swift · SwiftUI · 10+ yrs · SDK & Platform Architecture · AI-Integrated Engineering Workflow
+**Senior iOS Engineer** · Swift · SwiftUI · 10+ yrs · SDK & Platform Architecture
 
-Building consumer mobile products - from greenfield apps to large marketplace and loyalty platforms.
+Building maintainable iOS systems with AI-assisted engineering workflows.
+
+From greenfield apps to large marketplace and loyalty platforms.
 
 Kyiv, Ukraine
 
