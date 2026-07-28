@@ -95,7 +95,7 @@ AI coding agents are part of everyday engineering workflow - collaborators for i
 
 Outside work: a small personal engineering lab.
 
-- **[OneCart](https://github.com/vil4engineering/OneCart)** - shared family cart; father-son pet for learning and growth
+- **[OneCart Family](https://github.com/vil4engineering/OneCart)** - shared family cart; father-son pet for learning and growth
 - **[DriveCheckUA](https://github.com/vil4engineering/regional-check)** - CarPlay utility on the [App Store](https://apps.apple.com/us/app/regional-check/id6793023910)
 - **[PitStop](https://github.com/vil4max/pitstop-ios)** - driver's journal / car-memory sketch
 
