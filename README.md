@@ -1,6 +1,6 @@
 # 👋 Max Vilchevskiy
 
-**Senior iOS Engineer** · Swift · SwiftUI · 10+ yrs · SDK & Platform Architecture
+**Senior iOS Engineer**
 
 Building maintainable iOS systems with AI-assisted engineering workflows.
 
@@ -95,8 +95,8 @@ AI coding agents are part of everyday engineering workflow - collaborators for i
 
 Outside work: a small personal engineering lab.
 
-- **[OneCart Family](https://github.com/vil4engineering/OneCart)** - shared family cart; father-son pet for learning and growth
-- **[DriveCheckUA](https://github.com/vil4engineering/regional-check)** - CarPlay utility on the [App Store](https://apps.apple.com/us/app/regional-check/id6793023910)
+- **[OneCart Family](https://github.com/vil4labs/OneCart)** - shared family cart; father-son pet for learning and growth
+- **[DriveCheckUA](https://github.com/vil4labs/regional-check)** - CarPlay utility on the [App Store](https://apps.apple.com/us/app/regional-check/id6793023910)
 - **[PitStop](https://github.com/vil4max/pitstop-ios)** - driver's journal / car-memory sketch
 
 Personal learning spaces, not hire case studies. Professional materials live on the portfolio site.
