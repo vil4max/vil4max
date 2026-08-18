@@ -18,15 +18,15 @@ Kyiv, Ukraine
 
 ---
 
-## Looking for
+## Open to
 
-Senior iOS / mobile product role with AI tools in everyday delivery.
+Senior iOS / mobile product work with AI tools in everyday delivery. Always open to new opportunities.
 
 **Interested in**
 - Fintech and AI-touched products
-- Consumer mobile products
+- Developing with AI and using AI in everyday engineering
+- Growing beyond iOS into backend, Android, and frontend
 - Long-term product development
-- Platform and SDK engineering
 
 **Not interested in**
 - Gambling
