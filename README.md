@@ -2,9 +2,7 @@
 
 **Senior iOS Engineer**
 
-Building maintainable iOS systems with AI-assisted engineering workflows.
-
-From greenfield apps to large marketplace and loyalty platforms.
+I build iOS products that stay in production - from first versions to marketplace platforms and shared SDKs.
 
 Kyiv, Ukraine
 
@@ -14,7 +12,7 @@ Kyiv, Ukraine
     <a href="https://www.linkedin.com/in/vil4max/">LinkedIn</a> ·
     <a href="mailto:vil4max@gmail.com">Email</a> ·
     <a href="https://t.me/vil4max">Telegram</a> ·
-    <a href="https://raw.githubusercontent.com/vil4max/vil4max/main/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf">Resume (PDF)</a>
+    <a href="https://vil4max.github.io/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf">Resume (PDF)</a>
   </p>
 </div>
 
@@ -38,11 +36,9 @@ Senior iOS / mobile product role with AI tools in everyday delivery.
 
 ## About
 
-Building and evolving production iOS applications - from greenfield apps to marketplace and loyalty platforms.
+I have spent 10+ years shipping consumer iOS apps. The work I like is the kind that has to keep working: modular code, shared SDKs, analytics, and production diagnostics.
 
-Work focuses on long-lived codebases: modular architecture, shared SDKs, analytics infrastructure, engineering quality, and performance diagnostics.
-
-Prefer software that stays understandable and maintainable as the product grows.
+Recent chapters: Premium Subscription as a multi-host SDK, and a watchOS voice client that relays live audio through iPhone.
 
 ---
 
@@ -80,22 +76,11 @@ Voice-first research prototype on Apple Watch.
 
 ---
 
-## Engineering Principles
-
-- simple solutions over clever ones
-- explicit architecture
-- maintainable systems
-- pragmatic engineering decisions
-
-AI coding agents are part of everyday engineering workflow - collaborators for implementation, testing, debugging, documentation, and research.
-
----
-
 ## Hobby Lab
 
-Outside work: a small personal engineering lab.
+Side projects I build for myself and family.
 
-- **[OneCart Family](https://github.com/vil4labs/OneCart)** - shared family cart; father-son pet for learning and growth
-- **[DriveCheckUA](https://github.com/vil4labs/regional-check)** - CarPlay utility on the [App Store](https://apps.apple.com/us/app/regional-check/id6793023910)
+- **[OneCart Family](https://github.com/vil4labs/OneCart)** - shared family cart; father-son project
+- **[DriveCheckUA](https://github.com/vil4labs/regional-check)** - CarPlay utility on the [App Store](https://apps.apple.com/us/app/drivecheckua/id6793023910)
 
-Personal learning spaces, not hire case studies. Professional materials live on the portfolio site.
+Professional materials live on the [portfolio](https://vil4max.github.io/).
