@@ -14,4 +14,4 @@ Published under `assets/` here and copied to iCloud `pdf-resume/` on build. Priv
 
 ## README
 
-`README.md` is the GitHub profile "about" page (human voice). The public resume lives at `vil4max.github.io` (`index.html` — online resume + PDF download). Keep README independent; no need to sync with portfolio copy.
+`README.md` is the GitHub profile "about" page (human voice). Sync from `career/presentation/github-profile.md` via `profile:sync`. The public resume lives at `vil4max.github.io` (`index.html` - online resume + PDF download).
