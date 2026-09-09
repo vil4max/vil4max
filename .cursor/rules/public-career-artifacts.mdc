@@ -1,0 +1,22 @@
+---
+description: Generated PDF assets and GitHub profile claims bound to career SOT
+globs: README.md, assets/**, constraints.md
+alwaysApply: false
+---
+
+# Public career artifacts
+
+PDFs in `assets/` are **generated artifacts** from `career` (`npm run resume:one-page`) or `vil4max.github.io` (`npm run resume:build`).
+
+## Canonical filenames
+
+- `assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf` — public Resume PDF
+
+Do not manually edit PDF content. Do not rename the canonical public filename without updating the full pipeline (see `career/resume/README.md` and `career/WORKFLOW.md`).
+
+## Rules
+
+- Regenerate PDFs via career tooling, not by editing binaries here.
+- `README.md` may use an independent voice but claims must stay within `career/career.md` facts.
+- Do not include private career planning, KPI, salary, or mentorship content.
+- PDF text is not authoritative when it conflicts with `career/career.md` — fix SOT and rebuild.
