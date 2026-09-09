@@ -10,11 +10,11 @@ Kyiv, Ukraine · Remote
 
 ## About
 
-Software engineer with 13 years of commercial experience, from greenfield startups to large consumer products and fintech platforms. I have built and evolved iOS products from initial releases to production scale, including Drinkit and the Umico-to-Birmarket marketplace, where I later designed a reusable multi-host subscription SDK. Recent work also includes a watchOS voice client with an iPhone relay and two released personal apps, DriveCheckUA and OneCart Family.
+I'm a software engineer with 13 years of experience in iOS, consumer products, and fintech. I've built apps from scratch and worked on established products through years of growth. At Drinkit, I was part of the team that launched the app with its first coffee shop. At Umico, I developed marketplace features as the product grew into Birmarket, then built a subscription SDK for several host apps. My recent work also includes a watchOS voice client with an iPhone relay.
 
-I bring hands-on experience applying AI-assisted and agentic software-development workflows in shipped products and R&D work across planning, implementation, testing, verification, and code review, while retaining ownership of technical decisions and production quality. In DriveCheckUA, I shipped a Foundation Models summary with structured output, validation, and deterministic fallback. A separate Swift agent/tool runtime is covered by a 38-case evaluation corpus and real-device validation.
+I use coding agents for planning, implementation, testing, verification, and code review in released products and R&D work. I make the technical decisions and check the results. I built and released DriveCheckUA and OneCart Family this way. DriveCheckUA includes a Foundation Models summary with structured output, validation, and deterministic fallback. I also built a separate Swift agent/tool runtime with a 38-case evaluation corpus and validation on a real device.
 
-I work across greenfield and established codebases, owning technical decisions, integration boundaries, and production quality. I’m open to Software Engineer and Senior Software Engineer roles, especially in iOS products and fintech, where AI-assisted engineering is treated as a disciplined development practice.
+I'm looking for Software Engineer or Senior Software Engineer roles on long-term products, particularly in iOS and fintech. I can take a feature from technical planning through implementation and release, and I'd like to contribute to other parts of the product as well. AI-assisted development is part of how I work day to day.
 
 ## Technical focus
 
@@ -28,42 +28,52 @@ I work across greenfield and established codebases, owning technical decisions, 
 
 ### [GlobalLogic](https://vil4max.github.io/projects.html#project-watch-ai-assistant)
 
-Voice-first watchOS companion for field workers who need their hands free. Internal R&D / demo.
+An R&D voice assistant for field workers using Apple Watch. Worked within a collaborative R&D team. Responsible for technical design and implementation of key watchOS flows and the iPhone relay. Delivered a TestFlight demo, codebase, and documentation for client evaluation.
 
-- Built watchOS conversation UI and mapped structured AI/backend responses to navigation, application state, warnings, and UI actions.
-- Implemented the iPhone relay for real-time WebSocket and audio communication under watchOS runtime constraints for the delivered R&D demo.
+- Built watchOS conversation UI and translated structured assistant responses into predictable device actions.
+- Implemented the iPhone relay for live audio and WebSocket communication within watchOS runtime limits.
+
+**Skills:** WatchKit · Swift Concurrency · WatchConnectivity · WebSockets · AVFoundation · Structured AI Responses
 
 ### [PASHA Holding](https://vil4max.github.io/projects.html#project-birmarket)
 
-Primary iOS work on Premium Subscription during the Umico to Birmarket marketplace expansion in Azerbaijan.
+Umico grew into Birmarket, a leading Azerbaijani marketplace in the PASHA ecosystem. Worked in the loyalty team alongside mobile, backend, QA, and product specialists. Took loyalty features from planning to release, then focused on making subscription reusable across three host apps. Subscription functionality became reusable across Birmarket, Birbank, and m10 through one SDK.
 
-- Joined Umico during its earlier marketplace stage and delivered marketplace features across ordering, delivery, and later loyalty as the platform evolved into Birmarket.
-- Designed and rebuilt Premium Subscription as a configurable multi-host SDK for integration into Birmarket, Birbank, and M10, taking primary iOS responsibility for the feature.
+- Developed ordering, delivery, and loyalty features while extracting modules from the growing marketplace.
+- Built the subscription SDK and its independent PostHog analytics layer; agreed integration contracts with host and backend teams.
+
+**Skills:** UIKit · SwiftUI · Swift Concurrency · SPM · Multi-host SDK · Unit Testing · Integration Testing · CI/CD · A/B Testing · Feature Flags · Remote Configuration · PostHog
 
 ### [Drinkit](https://vil4max.github.io/projects.html#project-drinkit)
 
-Joined the early team that launched Drinkit with its first physical coffee shop and built the production iOS app from scratch.
+Drinkit began as a digital coffee-shop startup within Dodo Brands, connecting mobile ordering with preparation and pickup. The product team had about 20 people across engineering, design, QA, and product. Organized the mobile team’s arrival and took responsibility for iOS features and releases. Launched the app with the first coffee shop and developed the product for two years.
 
-- Built and launched the greenfield Drinkit iOS app as one of three iOS engineers, then continued developing it as the product evolved from its first coffee shop into a broader digital coffee-chain experience.
-- Implemented substantial parts of drink customization throughout the product’s evolution.
+- Implemented drink customization and pricing, refined UX with the designer, and worked with A/B tests and feature flags.
+- Built looping menu videos and offline caching, and integrated the payment SDK on the host side.
+
+**Skills:** Swift · UIKit · Combine · SPM · GCD · OperationQueue · MVP · AVFoundation · Offline Caching · Payment SDKs · A/B Testing · Feature Flags · Remote Configuration
 
 ## Personal projects
 
 ### DriveCheckUA
 
-DriveCheckUA is a small CarPlay utility I shipped for drivers: glance regional alert status for the current location without picking up the phone. One screen, one region, one refresh. The iPhone companion adds a country overview with an on-device Apple Foundation Models summary and deterministic fallback, in English, Russian, and Ukrainian.
+DriveCheckUA helps drivers check regional safety alerts on iPhone and CarPlay. Independent development with coding agents. Responsible for app architecture, AI integration, and verification. Swift code classifies alert status before the model receives supplied facts. The AI integration checks model availability, limits generation time, handles cancellation, validates output, and falls back deterministically when needed. Separately built a bounded Swift agent/tool runtime with a 38-case scripted evaluation corpus and documented real-device validation. Checks cover tool selection, execution budgets, malformed results, cancellation, deadlines, and fallback behavior. This runtime is separate from the released country-summary feature. Released on the App Store; separately evaluated a Swift agent/tool runtime.
 
-Informational status only.
+**Technologies:** SwiftUI · Swift Concurrency · CarPlay · Core Location · MapKit · URLSession · Apple Foundation Models · Structured Outputs · Tool Calling · Cancellation · Evaluation Corpus · Swift Testing
 
-Separate engineering work includes a bounded Swift agent/tool runtime, a 38-case scripted evaluation corpus, and Foundation Models device validation. This runtime is distinct from the released country summary.
+[App Store](https://apps.apple.com/app/id6793023910)
 
-[App Store](https://apps.apple.com/app/id6793023910) · [Source code](https://github.com/vil4max/regional-check)
+[Source code](https://github.com/vil4max/regional-check)
 
 ### OneCart Family
 
-OneCart Family is a shared family shopping cart built collaboratively. We developed and released it with AI-assisted engineering, SwiftUI, and live CloudKit sync: add what the household needs, check items off in the trolley, and keep purchase history in one place.
+OneCart Family is a family shopping app with a shared iCloud list and purchase history. Independent development with coding agents. Responsible for product, implementation, and release quality. Core Data uses private and shared CloudKit stores with CKShare invitations. Edits persist locally before cloud propagation. The app handles membership changes, duplicate records, and recovery when cloud account deletion fails. WidgetKit snapshots and App Intents support widget actions. XCTest regression suites cover cart state, sharing, persistence, synchronization errors, and deletion recovery. I reviewed generated changes, investigated defects, and verified releases. Released on the App Store.
 
-[App Store](https://apps.apple.com/app/id6793219621) · [Source code](https://github.com/vil4max/OneCart)
+**Technologies:** Swift · SwiftUI · Swift Concurrency · Core Data · CloudKit · CKShare · WidgetKit · App Intents · XCTest · Offline Persistence · Synchronization Recovery
+
+[App Store](https://apps.apple.com/app/id6793219621)
+
+[Source code](https://github.com/vil4max/OneCart)
 
 ## Interests
 
