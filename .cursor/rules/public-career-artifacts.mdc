@@ -10,7 +10,7 @@ PDFs in `assets/` are **generated artifacts** from `career` (`npm run resume:one
 
 ## Canonical filenames
 
-- `assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf` — public Resume PDF
+- `assets/Vilchevskiy_Software_Engineer.pdf` — public Resume PDF
 
 Do not manually edit PDF content. Do not rename the canonical public filename without updating the full pipeline (see `career/resume/README.md` and `career/WORKFLOW.md`).
 
