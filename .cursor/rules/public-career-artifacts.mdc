@@ -6,17 +6,22 @@ alwaysApply: false
 
 # Public career artifacts
 
-PDFs in `assets/` are **generated artifacts** from `career` (`npm run resume:one-page`) or `vil4max.github.io` (`npm run resume:build`).
+The PDF in `assets/` and this repository's `README.md` are generated artifacts
+from the sibling `career` constructor. Run `npm run build` and `npm run check`
+there, then use the authorized `npm run publish` action for local copies.
 
 ## Canonical filenames
 
 - `assets/Vilchevskiy_Software_Engineer.pdf` — public Resume PDF
 
-Do not manually edit PDF content. Do not rename the canonical public filename without updating the full pipeline (see `career/resume/README.md` and `career/WORKFLOW.md`).
+Do not manually edit PDF content. Coordinate filename changes with the full
+pipeline described in `../career/README.md`.
 
 ## Rules
 
 - Regenerate PDFs via career tooling, not by editing binaries here.
-- `README.md` may use an independent voice but claims must stay within `career/career.md` facts.
+- Edit facts in `career/CAREER_SOT_PRIVATE.md` and wording/selections in
+  `career/resume/presentation.json`, then regenerate the README.
 - Do not include private career planning, KPI, salary, or mentorship content.
-- PDF text is not authoritative when it conflicts with `career/career.md` — fix SOT and rebuild.
+- PDF text is not authoritative when it conflicts with `career/CAREER_SOT_PRIVATE.md` — fix SOT and rebuild.
+- Build, local publication, commit, and push remain separate actions.
