@@ -12,9 +12,10 @@ npm run build
 npm run check
 ```
 
-After reviewing the outputs, `npm run publish` updates the local public
-repositories and the iCloud PDF copy when authorized. Build alone does not
-publish. Commit and push are separate actions.
+After reviewing the outputs, `npm run publish -- --target repositories` updates
+the local public repositories when authorized. Use `--target icloud` for only
+the iCloud PDF copy or `--target all` for both; omitting the target also selects
+both. Build alone does not publish. Commit and push are separate actions.
 
 Keep one two-page Software Engineer PDF. Do not hand-edit generated content,
 restore older resume variants, or copy candidate-profile exports into this
