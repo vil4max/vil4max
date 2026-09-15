@@ -6,7 +6,7 @@ Kyiv, Ukraine · Remote
 
 [vil4max@gmail.com](mailto:vil4max@gmail.com) · [Telegram](https://t.me/vil4max) · [LinkedIn](https://www.linkedin.com/in/vil4max/) · [Portfolio](https://vil4max.github.io) · [GitHub](https://github.com/vil4max)
 
-[Resume PDF](https://vil4max.github.io/assets/Vilchevskiy_Senior_iOS_Engineer.pdf) · [Portfolio](https://vil4max.github.io/)
+[Resume PDF](https://vil4max.github.io/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf) · [Portfolio](https://vil4max.github.io/)
 
 ## About
 
