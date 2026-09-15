@@ -28,25 +28,25 @@ I'm looking for Senior iOS Engineer roles on long-term products, particularly in
 
 ### [GlobalLogic](https://vil4max.github.io/projects.html#project-watch-ai-assistant)
 
-An R&D voice assistant for field workers using Apple Watch. Worked within a collaborative R&D team. Responsible for technical design and implementation of key watchOS flows and the iPhone relay. Delivered a TestFlight demo, codebase, and documentation for client evaluation.
+An R&D Apple Watch voice assistant for hands-free fieldwork. Worked with the wider R&D team on the Apple platform client. Led watchOS interaction flows, audio streaming, and the iPhone relay. Shipped a TestFlight demo, codebase, and documentation for client evaluation.
 
-- Built watchOS conversation UI and translated structured assistant responses into predictable device actions.
-- Implemented the iPhone relay for live audio and WebSocket communication within watchOS runtime limits.
+- Built the watchOS conversation interface, translating structured assistant responses into concrete device actions and haptics.
+- Implemented the companion iPhone relay for live audio and realtime WebSocket communication within watchOS runtime limits.
 
 **Skills:** WatchKit · Swift Concurrency · WatchConnectivity · WebSockets · AVFoundation · Structured AI Responses
 
 ### [PASHA Holding](https://vil4max.github.io/projects.html#project-birmarket)
 
-Umico grew into Birmarket, a leading Azerbaijani marketplace in the PASHA ecosystem. Worked in the loyalty team alongside mobile, backend, QA, and product specialists. Took loyalty features from planning to release, then focused on making subscription reusable across three host apps. Subscription functionality became reusable across Birmarket, Birbank, and m10 through one SDK.
+Birmarket (formerly Umico) is a consumer marketplace in the PASHA ecosystem. Embedded in the loyalty engineering team alongside backend and QA specialists. Shipped core loyalty features and spearheaded subscription modularization. Delivered a unified Swift package powering subscriptions across Birmarket, Birbank, and m10.
 
-- Developed ordering, delivery, and loyalty features while extracting modules from the growing marketplace.
-- Built the subscription SDK and its independent PostHog analytics layer; agreed integration contracts with host and backend teams.
+- Shipped high-traffic marketplace features while untangling monolithic dependencies into modular Swift packages.
+- Built the multi-host Subscription SDK with an independent PostHog analytics layer, defining clean contracts for host apps.
 
 **Skills:** UIKit · SwiftUI · Swift Concurrency · SPM · Multi-host SDK · Unit Testing · Integration Testing · CI/CD · A/B Testing · Feature Flags · Remote Configuration · PostHog
 
 ### [Drinkit](https://vil4max.github.io/projects.html#project-drinkit)
 
-Drinkit began as a digital coffee-shop startup within Dodo Brands, connecting mobile ordering with preparation and pickup. The product team had about 20 people across engineering, design, QA, and product. Organized the mobile team’s arrival and took responsibility for iOS features and releases. Launched the app with the first coffee shop and developed the product for two years.
+Drinkit was a digital coffee-shop startup in Dodo Brands, linking mobile ordering with preparation and pickup. Worked in a product team of about 20 across engineering, design, QA and product. Helped establish the mobile team and took ownership of iOS features and releases. Launched the app with the first coffee shop and developed the product for two years.
 
 - Implemented drink customization and pricing, refined UX with the designer, and worked with A/B tests and feature flags.
 - Built looping menu videos and offline caching, and integrated the payment SDK on the host side.
