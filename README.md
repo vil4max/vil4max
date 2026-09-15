@@ -6,7 +6,7 @@ Kyiv, Ukraine · Remote
 
 [vil4max@gmail.com](mailto:vil4max@gmail.com) · [Telegram](https://t.me/vil4max) · [LinkedIn](https://www.linkedin.com/in/vil4max/) · [Portfolio](https://vil4max.github.io)
 
-[Resume PDF](https://vil4max.github.io/assets/Vilchevskiy_Senior_iOS_Engineer.pdf) · [Full resume](https://vil4max.github.io/full-resume.html)
+[Resume PDF](https://vil4max.github.io/assets/Vilchevskiy_Senior_iOS_Engineer.pdf)
 
 ## About
 
@@ -28,7 +28,7 @@ I'm looking for Senior iOS Engineer roles on long-term products, particularly in
 
 ### [GlobalLogic](https://vil4max.github.io/projects.html#project-watch-ai-assistant)
 
-An R&D Apple Watch voice assistant for hands-free fieldwork. Worked with the wider R&D team on the Apple platform client. Led watchOS interaction flows, audio streaming, and the iPhone relay. Shipped a TestFlight demo, codebase, and documentation for client evaluation.
+An R&D Apple Watch voice assistant for hands-free fieldwork. Worked with the wider R&D team on the Apple platform client. Led watchOS interaction flows, audio streaming, and the iPhone relay. Shipped a TestFlight demo package with codebase and documentation.
 
 - Built the watchOS conversation interface, translating structured assistant responses into concrete device actions and haptics.
 - Implemented the companion iPhone relay for live audio and realtime WebSocket communication within watchOS runtime limits.
