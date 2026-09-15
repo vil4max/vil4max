@@ -12,7 +12,7 @@ there, then use the authorized `npm run publish` action for local copies.
 
 ## Canonical filenames
 
-- `assets/Vilchevskiy_Software_Engineer.pdf` — public Resume PDF
+- `assets/Vilchevskiy_Senior_iOS_Engineer.pdf` — public Resume PDF
 
 Do not manually edit PDF content. Coordinate filename changes with the full
 pipeline described in `../career/README.md`.
