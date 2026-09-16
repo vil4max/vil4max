@@ -1,6 +1,6 @@
 # Max Vilchevskiy
 
-**Senior iOS Engineer | AI-Enabled Software Development**
+**Senior iOS Engineer | Agentic AI Engineering**
 
 Kyiv, Ukraine · Remote
 
@@ -8,17 +8,17 @@ Available immediately · Employment or contractor (FOP)
 
 [vil4max@gmail.com](mailto:vil4max@gmail.com) · [Telegram](https://t.me/vil4max) · [LinkedIn](https://www.linkedin.com/in/vil4max/) · [Portfolio](https://vil4max.github.io) · [GitHub](https://github.com/vil4max)
 
-[Resume PDF](https://vil4max.github.io/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf) · [Portfolio](https://vil4max.github.io/)
+[Resume PDF](https://vil4max.github.io/assets/Max_Vilchevskiy_Senior_Software_Engineer.pdf) · [Portfolio](https://vil4max.github.io/)
 
 ## About
 
 I'm a Senior iOS Engineer with 13 years of experience in iOS, consumer products, and fintech. I've built apps from scratch and worked on established products through years of growth. At Drinkit, I was part of the team that launched the app with its first coffee shop. At Umico, I developed marketplace features as the product grew into Birmarket, then built a subscription SDK for several host apps. My recent work also includes a watchOS voice client with an iPhone relay.
 
-I'm looking for Senior iOS Engineer roles on long-term products, particularly in iOS and fintech. I can take a feature from technical planning through implementation and release, and I'd like to contribute to other parts of the product over time. AI-enabled development is part of how I work day to day.
+I'm looking for two kinds of roles: Senior iOS Engineer positions on long-term products, particularly in iOS and fintech, and Applied AI / AI engineering roles centered on agent orchestration, tool calling, and evaluation — the same discipline behind the Swift agent/tool runtime above. I can take a feature from technical planning through implementation and release, and I'd like to contribute to other parts of the product over time.
 
 ## Focus
 
-Swift · UIKit · SwiftUI · Swift Concurrency · Modular Architecture · Swift Package Manager (SPM) · URLSession · XCTest · Xcode Instruments · AI-Assisted Development · Coding Agents · Agentic Workflows · Context Engineering · Apple Foundation Models
+Swift · SwiftUI · Swift Concurrency · Agentic Workflows · Context Engineering · Coding Agents · AI-Assisted Development · Apple Foundation Models · UIKit · Modular Architecture · Swift Package Manager (SPM) · URLSession · XCTest · Xcode Instruments
 
 ## Apps
 
