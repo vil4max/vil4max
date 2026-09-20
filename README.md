@@ -1,12 +1,12 @@
 # Max Vilchevskiy
 
-**Senior iOS Engineer | Agentic AI Engineering**
+**Senior iOS Engineer | AI-Native Development**
 
-Kyiv, Ukraine · Remote
+Kyiv, Ukraine (EET) · Open to remote
 
 Available immediately · Employment or contractor (FOP)
 
-[vil4max@gmail.com](mailto:vil4max@gmail.com) · [Telegram](https://t.me/vil4max) · [LinkedIn](https://www.linkedin.com/in/vil4max/) · [Portfolio](https://vil4max.github.io) · [GitHub](https://github.com/vil4max)
+[vil4max@gmail.com](mailto:vil4max@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vil4max/) · [GitHub](https://github.com/vil4max) · [Portfolio](https://vil4max.github.io) · [Telegram](https://t.me/vil4max)
 
 [Resume PDF](https://vil4max.github.io/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf) · [Portfolio](https://vil4max.github.io/)
 
@@ -18,7 +18,7 @@ I'm looking for two kinds of roles: Senior iOS Engineer positions on long-term p
 
 ## Focus
 
-Swift · SwiftUI · Swift Concurrency · Agentic Workflows · Context Engineering · Coding Agents · AI-Assisted Development · Apple Foundation Models · UIKit · Modular Architecture · Swift Package Manager (SPM) · URLSession · XCTest · Xcode Instruments
+Swift · SwiftUI · UIKit · Swift Concurrency · Combine · Modular Architecture · Swift Package Manager (SPM) · Clean Architecture · XCTest · Xcode Instruments · AI-Assisted Development · Agentic SDLC · Coding Agents · Apple Foundation Models
 
 ## Apps
 
@@ -26,7 +26,7 @@ Swift · SwiftUI · Swift Concurrency · Agentic Workflows · Context Engineerin
 
 DriveCheckUA displays regional safety alerts on iPhone and CarPlay. Built independently with coding agents. Architected the client, on-device AI integration, and CarPlay UI. Swift code classifies alert status before the model receives supplied facts. The AI integration checks model availability, limits generation time, handles cancellation, validates output, and falls back deterministically when needed. Separately built a bounded Swift agent/tool runtime with a 38-case scripted evaluation corpus and documented real-device validation. Checks cover tool selection, execution budgets, malformed results, injection-like inputs, cancellation, deadlines, and fallback behavior. This runtime is separate from the released country-summary feature. Released on the App Store; evaluated a bounded Swift agent runtime.
 
-**Technologies:** SwiftUI · Swift Concurrency · CarPlay · Core Location · MapKit · URLSession · Apple Foundation Models · Structured Outputs · Tool Calling · Guardrails · Prompt Injection Testing · Cancellation · Evaluation Corpus · Swift Testing
+**Technologies:** SwiftUI · Swift Concurrency · CarPlay · Core Location · MapKit · URLSession · Apple Foundation Models · Structured Outputs · Tool Calling · Guardrails · Prompt Injection Testing · Cancellation · Evaluation Corpus · Swift Testing · StoreKit 2 · AI-Assisted Development · Agentic SDLC · Model Context Protocol (MCP) · Dependency Injection · Claude Code · Codex · Coding Agents · Context Engineering · Deterministic Verification · Human-in-the-Loop Engineering · WidgetKit · Live Activities · App Intents · Actors · Sendable · Swift 6
 
 [App Store](https://apps.apple.com/app/id6793023910)
 
@@ -36,7 +36,7 @@ DriveCheckUA displays regional safety alerts on iPhone and CarPlay. Built indepe
 
 OneCart Family is a family shopping app with shared iCloud lists. Built independently with coding agents. Led architecture, data synchronization, and release verification. Core Data uses private and shared CloudKit stores with CKShare invitations. Edits persist locally before cloud propagation. The app handles membership changes, duplicate records, and recovery when cloud account deletion fails. WidgetKit snapshots and App Intents support widget actions. XCTest regression suites cover cart state, sharing, persistence, synchronization errors, and deletion recovery. I reviewed generated changes, investigated defects, and verified releases. Released on the App Store.
 
-**Technologies:** Swift · SwiftUI · Swift Concurrency · Core Data · CloudKit · CKShare · WidgetKit · App Intents · XCTest · Offline Persistence · Synchronization Recovery
+**Technologies:** Swift · SwiftUI · Swift Concurrency · Core Data · CloudKit · CKShare · WidgetKit · App Intents · XCTest · Offline Persistence · Synchronization Recovery · AI-Assisted Development · Agentic SDLC · Dependency Injection · Claude Code · Codex · Coding Agents · Agentic Workflows · Deterministic Verification · UserNotifications · Actors · Sendable
 
 [App Store](https://apps.apple.com/app/id6793219621)
 
