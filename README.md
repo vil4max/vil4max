@@ -2,7 +2,7 @@
 
 **Senior iOS Engineer | Agentic Engineering & Agent-Ready Apps**
 
-Kyiv, Ukraine (EET) · Open to remote
+Kyiv, Ukraine · Open to remote
 
 Available immediately · Employment or contractor (FOP)
 
@@ -26,7 +26,7 @@ Swift · SwiftUI · UIKit · Swift Concurrency · Combine · Modular Architectur
 
 DriveCheckUA displays regional safety alerts on iPhone and CarPlay. Built independently with coding agents. Architected the client, on-device AI integration, and CarPlay UI. Swift code classifies alert status before the model receives supplied facts. The AI integration checks model availability, limits generation time, handles cancellation, validates output, and falls back deterministically when needed. Separately built a bounded Swift agent/tool runtime with a 38-case scripted evaluation corpus and documented real-device validation. Checks cover tool selection, execution budgets, malformed results, injection-like inputs, cancellation, deadlines, and fallback behavior. This runtime is separate from the released country-summary feature. Released on the App Store; evaluated a bounded Swift agent runtime.
 
-**Technologies:** SwiftUI · Swift Concurrency · CarPlay · Core Location · MapKit · URLSession · Apple Foundation Models · Structured Outputs · Tool Calling · Guardrails · Prompt Injection Testing · Cancellation · Evaluation Corpus · Swift Testing · StoreKit 2 · AI-Assisted Development · Agentic SDLC · Model Context Protocol (MCP) · Dependency Injection · Claude Code · Codex · Coding Agents · Context Engineering · Deterministic Verification · Human-in-the-Loop Engineering · WidgetKit · Live Activities · App Intents · Actors · Sendable · Swift 6
+**Technologies:** SwiftUI · Swift Concurrency · CarPlay · Core Location · MapKit · URLSession · Apple Foundation Models · Structured Outputs · Tool Calling · Guardrails · Prompt Injection Testing · Cancellation · Evaluation Corpus · Swift Testing · StoreKit 2 · In-App Subscriptions · AI-Assisted Development · Agentic SDLC · Model Context Protocol (MCP) · Dependency Injection · Claude Code · Codex · Coding Agents · Context Engineering · Deterministic Verification · Human-in-the-Loop Engineering · WidgetKit · Live Activities · App Intents · Actors · Sendable · Swift 6
 
 [App Store](https://apps.apple.com/app/id6793023910)
 
@@ -40,4 +40,4 @@ OneCart Family is a family shopping app with shared iCloud lists. Built independ
 
 [App Store](https://apps.apple.com/app/id6793219621)
 
-[Source code](https://github.com/vil4max/OneCart)
+[Source code](https://github.com/vil4max/onecart-ios)
