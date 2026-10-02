@@ -14,7 +14,7 @@ Available immediately · Employment or contractor (FOP)
 
 Senior iOS Engineer with 13 years of experience in iOS, consumer products, and fintech. Built apps from scratch and worked on established products through years of growth. Part of the team that launched the Drinkit app with its first coffee shop. At Umico, developed marketplace features as the product grew into Birmarket, then built a subscription SDK for three host apps. Recent work also includes a watchOS voice client with an iPhone relay.
 
-Looking for two kinds of roles: Senior iOS Engineer positions on long-term products, particularly in consumer apps and fintech, and AI-native / agentic engineering roles centered on agent harnesses, context, tool calling, evaluation, and verification: the same discipline behind Stampwork and my Swift agent/tool runtime. Able to take a feature from technical planning through implementation and release, and interested in contributing to other parts of the product over time.
+Looking for two kinds of roles: Senior iOS Engineer positions on long-term products, particularly in consumer apps and fintech, and AI-native / agentic engineering roles centered on agent harnesses, context, tool calling, evaluation, and verification. Stampwork and my Swift agent/tool runtime are built on the same discipline. Able to take a feature from technical planning through implementation and release, and interested in contributing to other parts of the product over time.
 
 ## Focus
 
@@ -22,7 +22,7 @@ Swift · SwiftUI · UIKit · Swift Concurrency · Combine · Modular Architectur
 
 ### Stampwork
 
-Stampwork is a kit for spec-driven iOS feature delivery with coding agents. Built by one engineer directing coding agents; a person approves the requirements and each iteration's plan, authorizes commits and accepts each feature. The same engineer designs the process and builds its toolkit: task briefs, the runtime, the automated gate and the independent review. A writer agent implements each task in its own worktree, the verify gate (format, lint, build, tests) runs locally and in hosted CI, and an independent review checks what the change introduced. The runtime each app installs is readable in its Tooling directory; the method, the tracing and brief tools, and the Claude Code plugin are private. Three public apps ship through it and are the evidence: DriveCheckUA and OneCart Family on the App Store, PitStop on TestFlight.
+Stampwork is a kit for spec-driven iOS feature delivery with coding agents. Built by one engineer directing coding agents; a person approves the requirements and each iteration's plan, authorizes commits, and accepts each feature. The same engineer designs the process and builds its toolkit: task briefs, the runtime, the automated gate, and the independent review. A writer agent implements each task in its own worktree, the verify gate (format, lint, build, tests) runs locally and in hosted CI, and an independent review checks what the change introduced. The runtime each app installs is readable in its Tooling directory; the method, the tracing and brief tools, and the Claude Code plugin are private. Three public apps ship through it and are the evidence: DriveCheckUA and OneCart Family on the App Store, and PitStop on TestFlight.
 
 **Technologies:** Agentic SDLC · AI-Assisted Development · Coding Agents · Claude Code · Codex · Model Context Protocol (MCP) · Deterministic Verification
 
