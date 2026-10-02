@@ -20,6 +20,12 @@ Looking for two kinds of roles: Senior iOS Engineer positions on long-term produ
 
 Swift · SwiftUI · UIKit · Swift Concurrency · Combine · Modular Architecture · Swift Package Manager (SPM) · Clean Architecture · XCTest · Xcode Instruments · AI-Assisted Development · Agentic SDLC · Coding Agents · Apple Foundation Models
 
+### Stampwork
+
+Stampwork is a kit for spec-driven iOS feature delivery with coding agents. Built by one engineer directing coding agents; a person approves the requirements and each iteration's plan, authorizes commits and accepts each feature. The same engineer designs the process and builds its toolkit: task briefs, the runtime, the automated gate and the independent review. A writer agent implements each task in its own worktree, the verify gate (format, lint, build, tests) runs locally and in hosted CI, and an independent review checks what the change introduced. The runtime each app installs is readable in its Tooling directory; the method, the tracing and brief tools, and the Claude Code plugin are private. Three public apps ship through it and are the evidence: DriveCheckUA and OneCart Family on the App Store, PitStop on TestFlight.
+
+**Technologies:** Agentic SDLC · AI-Assisted Development · Coding Agents · Claude Code · Codex · Model Context Protocol (MCP) · Deterministic Verification
+
 ## Apps
 
 ### DriveCheckUA
@@ -41,9 +47,3 @@ OneCart Family is a family shopping app with shared iCloud lists. Built with cod
 [App Store](https://apps.apple.com/app/id6793219621)
 
 [Source code](https://github.com/vil4max/onecart-ios)
-
-### Stampwork
-
-Stampwork is a kit for spec-driven iOS feature delivery with coding agents. Built by one engineer directing coding agents; a person approves the requirements and each iteration's plan, authorizes commits and accepts each feature. The same engineer designs the process and builds its toolkit: task briefs, the runtime, the automated gate and the independent review. A writer agent implements each task in its own worktree, the verify gate (format, lint, build, tests) runs locally and in hosted CI, and an independent review checks what the change introduced. The runtime each app installs is readable in its Tooling directory; the method, the tracing and brief tools, and the Claude Code plugin are private. Three public apps ship through it and are the evidence: DriveCheckUA and OneCart Family on the App Store, PitStop on TestFlight.
-
-**Technologies:** Agentic SDLC · AI-Assisted Development · Coding Agents · Claude Code · Codex · Model Context Protocol (MCP) · Deterministic Verification
