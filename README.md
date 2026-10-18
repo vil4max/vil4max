@@ -8,6 +8,12 @@ Kyiv, Ukraine
 
 ## About
 
-Senior Mobile Engineer with 13 years of experience in consumer apps, from new products built from scratch to a large-scale app used by millions of people. Takes features from product idea through architecture to App Store release, and extracts existing ones into separate modules and an SDK shared across apps. Now focused on product work: owning iOS features from the business goal to measured results, with AI agents across the delivery lifecycle, from AI-assisted coding and testing to automated quality gates.
+I build mobile apps people use every day, and I build them with AI agents: the agents write most of the code, and I own the product, the architecture, and the quality.
+
+For 13 years I've shipped iOS apps, from new products to Birmarket, a marketplace with 2M+ customers, where I owned Premium Subscription and shipped it as an SDK used in 3 apps. At Drinkit our team built the app from scratch for the first coffee shop's opening.
+
+Today I run my own products. DriveCheckUA and OneCart Family are on the App Store, the Android version of DriveCheckUA reached a signed v1.0.0 release in two days, in Kotlin Multiplatform and Jetpack Compose, and a TypeScript backend on Cloudflare Workers with a public status page went live. DriveCheckUA runs on one loop: a spec first, AI-assisted coding with a test traced to every requirement and enforced in CI, and a review of every change.
+
+I'm looking for a senior mobile role on a product team that ships with AI.
 
 [Resume PDF](https://vil4max.github.io/assets/Max_Vilchevskiy_Senior_Mobile_Engineer.pdf) | [Projects](https://vil4max.github.io/projects.html) | [Full experience](https://vil4max.github.io/full-resume.html)
