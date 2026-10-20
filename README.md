@@ -1,6 +1,6 @@
 # Max Vilchevskiy
 
-**Senior Mobile Engineer (iOS, Android) | Agentic Development | Product-minded**
+**Senior iOS Engineer | Swift, SwiftUI, UIKit | Agentic Development**
 
 Kyiv, Ukraine
 
@@ -8,12 +8,10 @@ Kyiv, Ukraine
 
 ## About
 
-I build mobile apps with AI agents. The agents write most of the code, and I own the product decisions, the architecture, and the quality.
+I've built iOS apps for 13 years. At Birmarket, a marketplace with 2M+ customers, I owned Premium Subscription and turned it into an SDK used in three apps. At Drinkit our team built the app from scratch for the opening of the first coffee shop.
 
-I've worked in iOS for 13 years. At Birmarket, a marketplace with 2M+ customers, I owned Premium Subscription and turned it into an SDK used in three apps. At Drinkit our team built the app from scratch for the opening of the first coffee shop.
+Now I build my own products with AI agents. I make the product and architecture decisions, and agents write most of the code. DriveCheckUA and OneCart Family are on the App Store.
 
-Now I build my own products. DriveCheckUA and OneCart Family are on the App Store. The Android version of DriveCheckUA, written in Kotlin Multiplatform and Jetpack Compose, reached a signed v1.0.0 release in two days, and a TypeScript backend for it on Cloudflare Workers is live with a public status page. In DriveCheckUA every requirement has a test that CI enforces, and I review every feature.
+DriveCheckUA goes through one agentic loop: a spec first, a CI-enforced test for every requirement, and my review of every feature. Its Android app and backend were built the same way.
 
-I'm looking for a senior mobile role on a product team that builds with AI.
-
-[Resume PDF](https://vil4max.github.io/assets/Max_Vilchevskiy_Senior_Mobile_Engineer.pdf) | [Projects](https://vil4max.github.io/projects.html) | [Full experience](https://vil4max.github.io/full-resume.html)
+[Resume PDF](https://vil4max.github.io/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf) | [Projects](https://vil4max.github.io/projects.html) | [Full experience](https://vil4max.github.io/full-resume.html)
