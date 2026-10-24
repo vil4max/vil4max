@@ -10,6 +10,6 @@ Kyiv, Ukraine
 
 I've built iOS apps for 13 years. At Birmarket, a marketplace with 2M+ customers, I owned Premium Subscription and turned it into an SDK used in three apps. At Drinkit our team built the app from scratch for the opening of the first coffee shop.
 
-Now I build my own products. DriveCheckUA and OneCart Family are on the App Store. I own the design, architecture, testing and App Store releases, and use AI coding agents for implementation.
+Now I build my own products. DriveCheckUA and OneCart Family are on the App Store. I own the architecture, concurrency model, testing, and App Store releases. AI coding agents write part of the code, and I review every change.
 
 [Resume PDF](https://vil4max.com/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf) | [Projects](https://vil4max.com/projects.html) | [Full experience](https://vil4max.com/full-resume.html)
