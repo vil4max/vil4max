@@ -8,6 +8,6 @@ Kyiv, Ukraine
 
 ## About
 
-I've built iOS apps for 10+ years. At Birmarket, a marketplace with 2M+ customers, I owned Premium Subscription and turned it into an SDK used in three apps. At Drinkit our team built the app from scratch for the opening of the first coffee shop.
+I've built iOS apps for 10+ years, counting my freelance and contract work. At Birmarket, a marketplace with 2M+ customers, I owned Premium Subscription and turned it into an SDK used in three apps. At Drinkit our team built the app from scratch for the opening of the first coffee shop.
 
 [Resume PDF](https://vil4max.com/assets/Max_Vilchevskiy_Senior_iOS_Engineer.pdf) | [Projects](https://vil4max.com/projects.html) | [Full experience](https://vil4max.com/full-resume.html)
