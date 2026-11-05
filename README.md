@@ -2,7 +2,7 @@
 
 **Senior iOS Engineer | Swift, SwiftUI, UIKit**
 
-Kyiv, Ukraine
+Kyiv, Ukraine | Remote
 
 [vil4max@gmail.com](mailto:vil4max@gmail.com) | [linkedin.com/in/vil4max](https://www.linkedin.com/in/vil4max/) | [github.com/vil4max](https://github.com/vil4max) | [vil4max.com](https://vil4max.com) | [t.me/vil4max](https://t.me/vil4max)
 
